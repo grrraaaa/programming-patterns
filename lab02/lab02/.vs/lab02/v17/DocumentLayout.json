@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:jobvacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab02\\lab02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE483F3-569C-402F-B1F9-6389D6A09C2B}|lab02.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStaff.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\IStaff.cs",
+              "RelativeDocumentMoniker": "IStaff.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\IStaff.cs",
+              "RelativeToolTip": "IStaff.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:05:59.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\JobTitle.cs",
+              "RelativeDocumentMoniker": "JobTitle.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\JobTitle.cs",
+              "RelativeToolTip": "JobTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:01:01.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobVacancy.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\JobVacancy.cs",
+              "RelativeDocumentMoniker": "JobVacancy.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\JobVacancy.cs",
+              "RelativeToolTip": "JobVacancy.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:58:01.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Organization.cs",
+              "RelativeDocumentMoniker": "Organization.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Organization.cs",
+              "RelativeToolTip": "Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:56:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Faculty.cs",
+              "RelativeDocumentMoniker": "Faculty.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Faculty.cs",
+              "RelativeToolTip": "Faculty.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:34:57.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:28:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:28:15.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\University.cs",
+              "RelativeDocumentMoniker": "University.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\University.cs",
+              "RelativeToolTip": "University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:27:10.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:24:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\lab02\\lab02\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:24:54.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
