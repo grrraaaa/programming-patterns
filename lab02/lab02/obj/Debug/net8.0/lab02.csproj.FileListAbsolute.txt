@@ -27,3 +27,4 @@ C:\Users\user1\Desktop\ppLB\programming-patterns\lab02\lab02\obj\Debug\net8.0\re
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab02\lab02\obj\Debug\net8.0\lab02.pdb
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab02\lab02\obj\Debug\net8.0\lab02.genruntimeconfig.cache
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab02\lab02\obj\Debug\net8.0\ref\lab02.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab02\lab02\obj\Debug\net8.0\lab02.sourcelink.json
