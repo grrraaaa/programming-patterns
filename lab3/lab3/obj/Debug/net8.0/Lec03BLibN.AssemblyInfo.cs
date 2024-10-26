@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lec03BLibN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+578cca5563641301ec6ee0b0b1ef52171684714a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+749a1c3272e9ca6c0040ec3cec00e6d9e762bf00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lec03BLibN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lec03BLibN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

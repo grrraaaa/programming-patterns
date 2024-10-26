@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\bin\Debug\net8.0\Lec03BLibN.exe
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\bin\Debug\net8.0\Lec03BLibN.deps.json
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\bin\Debug\net8.0\Lec03BLibN.runtimeconfig.json
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\bin\Debug\net8.0\Lec03BLibN.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\bin\Debug\net8.0\Lec03BLibN.pdb
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.AssemblyInfo.cs
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.sourcelink.json
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\refint\Lec03BLibN.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.pdb
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\Lec03BLibN.genruntimeconfig.cache
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\lab3\obj\Debug\net8.0\ref\Lec03BLibN.dll

@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v8.0": {
       "PP-03/1.0.0": {
         "dependencies": {
-          "lab3": "1.0.0"
+          "Lec03BLibN": "1.0.0"
         },
         "runtime": {
           "PP-03.dll": {}
         }
       },
-      "lab3/1.0.0": {
+      "Lec03BLibN/1.0.0": {
         "runtime": {
-          "lab3.dll": {
+          "Lec03BLibN.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "lab3/1.0.0": {
+    "Lec03BLibN/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

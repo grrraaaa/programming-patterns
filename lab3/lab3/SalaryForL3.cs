@@ -20,18 +20,18 @@ namespace lab3
         public IBonus getA(float cost1hour)
         {
 
-            return new BonusA1(cost1hour);
+            return new BonusA3(cost1hour,A,B);
 
         }
 
         public IBonus getB(float cost1hour, float x)
         {
-            return new BonusB1(cost1hour, x);
+            return new BonusB3(cost1hour,A,B, x);
         }
 
         public IBonus getC(float cost1hour, float x, float y)
         {
-            return new BonusC1(cost1hour, x, y);
+            return new BonusC3(cost1hour,A,B, x, y);
         }
     }
 }

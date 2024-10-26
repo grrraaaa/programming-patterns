@@ -16,10 +16,11 @@ namespace lab3
         {
             this.cost1hour = cost1hour;
             this.A = A;
+            this.B = B;
         }
         public float calc(float hoursW)
         {
-            return (hoursW + A) * (cost1hour*B);
+            return (hoursW + A) * (cost1hour+B);
         }
     }
 }

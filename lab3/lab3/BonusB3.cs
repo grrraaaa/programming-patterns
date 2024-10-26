@@ -18,6 +18,7 @@ namespace lab3
             this.cost1hour = cost1hour;
             this.A = A;
             this.B = B;
+            this.x = x;
         }
         public float calc(float hoursW)
         {

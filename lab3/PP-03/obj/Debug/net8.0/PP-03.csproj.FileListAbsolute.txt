@@ -1,13 +1,8 @@
-C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\lab3.deps.json
-C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\lab3.runtimeconfig.json
-C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\lab3.exe
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\PP-03.exe
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\PP-03.deps.json
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\PP-03.runtimeconfig.json
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\PP-03.dll
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\PP-03.pdb
-C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\lab3.dll
-C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\lab3.pdb
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\PP-03.csproj.AssemblyReference.cache
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\PP-03.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\PP-03.AssemblyInfoInputs.cache
@@ -20,3 +15,8 @@ C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\ref
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\PP-03.pdb
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\PP-03.genruntimeconfig.cache
 C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\obj\Debug\net8.0\ref\PP-03.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\Lec03BLibN.deps.json
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\Lec03BLibN.runtimeconfig.json
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\Lec03BLibN.exe
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\Lec03BLibN.dll
+C:\Users\user1\Desktop\ppLB\programming-patterns\lab3\PP-03\bin\Debug\net8.0\Lec03BLibN.pdb
