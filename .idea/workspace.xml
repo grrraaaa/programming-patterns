@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25f339f7-c225-4d2d-8eef-5e9aa5098947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab3/.vs/lab3/FileContentIndex/c39ac7bb-5c53-4842-b355-14e512101653.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.vs/lab3/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/.vs/lab3/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.vs/lab3/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/.vs/lab3/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.vs/lab3/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/.vs/lab3/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/.vs/lab3/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/.vs/lab3/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/3.drawio (1).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/Lec03BLibN.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/bin/Debug/net8.0/PP-03.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/PP-03.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/ref/PP-03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/ref/PP-03.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/refint/PP-03.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/PP-03/obj/Debug/net8.0/refint/PP-03.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/bin/Debug/net8.0/Lec03BLibN.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/Lec03BLibN.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/ref/Lec03BLibN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/ref/Lec03BLibN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/refint/Lec03BLibN.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/lab3/obj/Debug/net8.0/refint/Lec03BLibN.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/Диаграмма без названия (7) (6).drawio" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pvziRu6rrnQAKqEdgf9e03tekh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25f339f7-c225-4d2d-8eef-5e9aa5098947" name="Changes" comment="" />
+      <created>1733661464324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733661464324</updated>
+      <workItem from="1733661465543" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
