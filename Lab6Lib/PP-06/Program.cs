@@ -4,6 +4,7 @@ using PP_06;
 Publisher event1 = new Publisher("EVENT-1");
 Publisher event2 = new Publisher("EVENT-2");
 Publisher event3 = new Publisher("EVENT-3");
+//Publisher event4 = new Publisher("EVENT-3");
 
 SubscriberA subscriberA = new SubscriberA();
 SubscriberB subscriberB = new SubscriberB();

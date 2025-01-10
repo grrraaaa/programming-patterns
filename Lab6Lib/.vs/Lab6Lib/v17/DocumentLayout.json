@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237005DC-F68D-47AA-A00D-825057DE33C9}|Lab6Lib\\Lab6Lib.csproj|solutionrelative:lab6lib\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|c:\\users\\user1\\desktop\\pplb\\programming-patterns\\lab6lib\\pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322AC74B-DABB-44D2-890B-DE15273062D4}|PP-06\\PP-06.csproj|solutionrelative:pp-06\\subscriberc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\Lab6Lib\\Publisher.cs",
               "RelativeDocumentMoniker": "Lab6Lib\\Publisher.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\Lab6Lib\\Publisher.cs",
               "RelativeToolTip": "Lab6Lib\\Publisher.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T18:02:53.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SubscriberB.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\SubscriberB.cs",
               "RelativeDocumentMoniker": "PP-06\\SubscriberB.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\SubscriberB.cs",
               "RelativeToolTip": "PP-06\\SubscriberB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T18:32:54.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\Program.cs",
               "RelativeDocumentMoniker": "PP-06\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\Program.cs",
               "RelativeToolTip": "PP-06\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T18:29:48.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SubscriberC.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\SubscriberC.cs",
               "RelativeDocumentMoniker": "PP-06\\SubscriberC.cs",
@@ -94,25 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SubscriberA.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\SubscriberA.cs",
               "RelativeDocumentMoniker": "PP-06\\SubscriberA.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\PP-06\\SubscriberA.cs",
               "RelativeToolTip": "PP-06\\SubscriberA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T18:30:18.159Z"
+              "WhenOpened": "2024-09-14T18:30:18.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ISubscriber.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\Lab6Lib\\ISubscriber.cs",
               "RelativeDocumentMoniker": "Lab6Lib\\ISubscriber.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\ppLB\\programming-patterns\\Lab6Lib\\Lab6Lib\\ISubscriber.cs",
               "RelativeToolTip": "Lab6Lib\\ISubscriber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T18:03:34.68Z",
               "EditorCaption": ""
